@@ -1,4 +1,4 @@
-# Employee-Attrition-Analysis-Copy
+# Employee-Attrition-Analysis
 An HR data analytics project using Microsoft Excel to analyze employee attrition, workforce demographics, job satisfaction, salary, and employee retention trends. Copy
 # Employee-Attrition-Analysis
 # 👥 Employee Attrition Analysis | Excel Dashboard
